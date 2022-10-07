@@ -1,0 +1,22 @@
+{
+  "name": "pricing-table",
+  "version": "1.0.0",
+  "description": "pricing table for a web app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass --watch sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichGlover/Pricing-Table.git"
+  },
+  "author": "Glover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichGlover/Pricing-Table/issues"
+  },
+  "homepage": "https://github.com/MichGlover/Pricing-Table#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
